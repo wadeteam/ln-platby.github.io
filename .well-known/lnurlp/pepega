@@ -1,1 +1,20 @@
-lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxtehxy6rqcn9xuuj6cfh8ycz6dp4xguj6c3589nz6dphxanxywf3xvcx2c3nmg0xwl
+{
+        "id": "051c1845-5ca4-4a9b-842e-9620451414eb",
+        "unit": "msats",
+        "slots": 0,
+        "minAmount": "1000",
+        "maxAmount": "500000",
+        "identifier": "‎cislo1",
+        "createdAt": "2023-10-05T19:45:06.552Z",
+        "expiresAt": null,
+        "internalId": "‎1",
+        "description": "Popisek",
+        "callbackUrl": "‎https://moon-bot.eu",
+        "allowedSlots": null,
+        "successMessage": "‎Success zprava",
+        "status": "active",
+        "invoice": {
+            "request": "lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxtesx5ckxvfcxs6j6dtrvy6z6drp893z6wp5xfjj6wfkxgcrgdf3xscngetzezz2al",
+            "uri": "lightning:lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxtesx5ckxvfcxs6j6dtrvy6z6drp893z6wp5xfjj6wfkxgcrgdf3xscngetzezz2al"
+        }
+    }

@@ -1,10 +1,1 @@
-{
-     "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/e789ad24-dcf1-4163-858c-5c957bbd303a",
-     "maxSendable": 100000000000,
-     "minSendable": 1,
-     "metadata": "[["text/plain","Sent to MOON-Wallet"],["text/identifier","obviousjacket06@walletofsatoshi.com"]]",
-     "commentAllowed": 32,
-     "tag": "payRequest",
-     "allowsNostr": true,
-     "nostrPubkey": "be1d89794bf92de5dd64c1e60f6a2c70c140abac9932418fee30c5c637fe9479"
-}
+lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxte58yerzvn9xyuz6drxv5cz6dpjvvmz6c3k8quj6dekxf3kywfcv9snzvf3kewdpd
